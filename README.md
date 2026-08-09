@@ -16,6 +16,6 @@
 ---
 
 ### Certifications
-- **TryHackMe Cyber Security 101**
+- **Cisco Introduction To Cybersecurity**
 - **Cisco CCNA** *(in progress)*
 - **CompTIA Security+** *(in progress)*
